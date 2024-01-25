@@ -1,4 +1,4 @@
-package ru.shtykin.ocv1.ui.theme
+package ru.shtykin.ocv1.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
